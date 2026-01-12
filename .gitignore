@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+checkpoints/
+data/raw/
+data/tokenized*/
+data/cleaned/
+*.pt
+log.txt
+log_run.txt
+.DS_Store
