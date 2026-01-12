@@ -2,6 +2,8 @@
 
 A custom, efficient Large Language Model (LLM) built from scratch using PyTorch. This project covers the entire pipeline from data collection and tokenization to pretraining, finetuning, and inference.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sbshehab2006/Plagon-x69-LLM/blob/main/Plagon_LLM_Colab.ipynb)
+
 ## 🚀 Features
 
 - **Custom Transformer Architecture**: Built with PyTorch, implementing modern transformer features.
